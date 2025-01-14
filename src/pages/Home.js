@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 import Install from './Install'
 
 function Home() {
-  //Test
+  //Test -----push
   return (
     <div className="App">
       <header className="App-header">
